@@ -14,7 +14,7 @@
     * Create at least 4 new files that the navbar will navigate to.
 
 ### Part 3 - Submit Assignment
-* Submit the quiz by _pushing_ the changes you have made to the project.
+* Submit the assignment by _pushing_ the changes you have made to the project.
 * Execute the following commands from the _root directory_ of the project to _push_ changes to your repository.
     * `git add .`
     * `git commit -m 'finished assignment'`
