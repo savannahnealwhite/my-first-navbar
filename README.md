@@ -15,6 +15,7 @@
 
 ### Part 3 - Rounding Edges
 * Research the _how to round sharp edges_ by visiting the [w3 school tutorial on rounded-edges](https://www.w3schools.com/css/css3_borders.asp).
+* Using the newly researched material, round the edges of the navbar.
 
 ### Part 4 - Submit Assignment
 * Submit the assignment by _pushing_ the changes you have made to the project.
